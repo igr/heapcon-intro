@@ -169,7 +169,7 @@ public class Chaos {
 		}
 
 //		letters[0].show().draw(g);  // H
-		letters[1].show().draw(g);  // e
+//		letters[1].show().draw(g);  // e
 //		letters[2].show().draw(g);  // a
 //		letters[3].show().draw(g);  // p
 //		letters[4].show().draw(g);  // c

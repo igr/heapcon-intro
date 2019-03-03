@@ -67,7 +67,7 @@ public class SLetter {
 			List<SPoint> linePoints = sampleLine(hsPoint1.getCenter(), hsPoint2.getCenter());
 
 			if (isE) {
-				System.out.println(j + " " + hsPoint1.getCenter().distanceTo(hsPoint2.getCenter()));
+//				System.out.println(j + " " + hsPoint1.getCenter().distanceTo(hsPoint2.getCenter()));
 				if (j == 49 || j == 67) {
 				//if (j == 50 || j == 68) {     // ORIGINAL, BIG resolution
 					continue;
