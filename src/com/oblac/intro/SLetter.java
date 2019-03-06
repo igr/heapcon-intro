@@ -68,8 +68,8 @@ public class SLetter {
 
 			if (isE) {
 //				System.out.println(j + " " + hsPoint1.getCenter().distanceTo(hsPoint2.getCenter()));
-				if (j == 49 || j == 67) {
-				//if (j == 50 || j == 68) {     // ORIGINAL, BIG resolution
+//				if (j == 49 || j == 67) {
+				if (j == 50 || j == 68) {     // ORIGINAL, BIG resolution
 					continue;
 				}
 			}

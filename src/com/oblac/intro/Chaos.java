@@ -18,10 +18,10 @@ public class Chaos {
 //	public static final int HALF_VECTORS = 800;
 //	public static final int MAX_VECTORS = 15000;
 
-	public static final int SLEEP_TIME = 0;
-	public static final int HALF_TIME = 20;
-	public static final int MAX_TIME = 40;
-	public static final int CHAOS_TIME = 30;
+	public static final int SLEEP_TIME = 3;
+	public static final int HALF_TIME = 10;
+	public static final int MAX_TIME = 20;
+	public static final int CHAOS_TIME = 5;
 	public static final int HALF_VECTORS = 800;
 	public static final int MAX_VECTORS = 15000;
 
